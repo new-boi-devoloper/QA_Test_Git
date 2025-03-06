@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2b6dd0219e2439ab3f67b89e473bed5, type: 3}
+  m_Name: FirstMissionDialog
+  m_EditorClassIdentifier: 
+  DialogUnits:
+  - {fileID: 11400000, guid: 0f2c3c7c5506eff4299a5e5c1d2bedc6, type: 2}
+  - {fileID: 11400000, guid: d76377a568ff5ab43a72a148142afb6f, type: 2}
+  - {fileID: 11400000, guid: 190815b7bc0bec54c9d474f708160e8e, type: 2}
